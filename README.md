@@ -136,3 +136,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 1. **Replace placeholders** like `yourusername` and `your_cohere_api_key` with your actual details.
 2. **Add any additional information** specific to your project, such as additional environment variables, features, or special instructions.
 3. **Commit the `README.md` to your repository** so that others can understand and contribute to your project.
+
+
+## PS: I put a trial API key to cut your time for direct testing
