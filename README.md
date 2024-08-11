@@ -130,7 +130,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
 ### Instructions for Using the Template:
 1. **Replace placeholders** like `yourusername` and `your_cohere_api_key` with your actual details.
